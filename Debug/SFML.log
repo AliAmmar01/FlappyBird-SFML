@@ -1,0 +1,87 @@
+﻿  Source.cpp
+C:\Users\Ali Ammar\Documents\Projects\SFML\Source.cpp(103,46): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ali Ammar\Documents\Projects\SFML\Source.cpp(107,61): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ali Ammar\Documents\Projects\SFML\Source.cpp(107,46): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ali Ammar\Documents\Projects\SFML\Source.cpp(112,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ali Ammar\Documents\Projects\SFML\Source.cpp(112,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ali Ammar\Documents\Projects\SFML\Source.cpp(120,26): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ali Ammar\Documents\Projects\SFML\Source.cpp(124,25): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ali Ammar\Documents\Projects\SFML\Source.cpp(129,26): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ali Ammar\Documents\Projects\SFML\Source.cpp(175,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Ali Ammar\Documents\Projects\SFML\Source.cpp(266,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ali Ammar\Documents\Projects\SFML\Source.cpp(268,50): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Ali Ammar\Documents\Projects\SFML\Source.cpp(318,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ali Ammar\Documents\Projects\SFML\Source.cpp(321,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ali Ammar\Documents\Projects\SFML\Source.cpp(321,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ali Ammar\Documents\Projects\SFML\Source.cpp(325,65): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ali Ammar\Documents\Projects\SFML\Source.cpp(325,47): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ali Ammar\Documents\Projects\SFML\Source.cpp(424,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ali Ammar\Documents\Projects\SFML\Source.cpp(430,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ali Ammar\Documents\Projects\SFML\Source.cpp(457,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ali Ammar\Documents\Projects\SFML\Source.cpp(458,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ali Ammar\Documents\Projects\SFML\Source.cpp(459,51): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  SFML.vcxproj -> C:\Users\Ali Ammar\Documents\Projects\SFML\Debug\SFML.exe
